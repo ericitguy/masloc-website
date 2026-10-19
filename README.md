@@ -1,4 +1,4 @@
-# MASLOC — Official Website (Static Build)
+# MASLOC — Official Website Redesign (Static Build)
 
 Microfinance and Small Loans Centre (MASLOC), Ghana — a premium, accessible, government-grade static website generated from a structured content layer.
 
