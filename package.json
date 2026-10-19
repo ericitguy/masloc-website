@@ -1,0 +1,17 @@
+{
+  "name": "masloc-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Official website of the Microfinance and Small Loans Centre (MASLOC), Ghana — static site with structured content layer.",
+  "type": "commonjs",
+  "scripts": {
+    "assets": "bash scripts/fetch-assets.sh",
+    "build": "node build.js",
+    "verify": "node scripts/verify.js",
+    "serve": "node scripts/serve.js",
+    "start": "node build.js && node scripts/serve.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

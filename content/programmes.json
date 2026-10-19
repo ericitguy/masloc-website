@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "youth-entrepreneurship",
+    "title": "Youth Entrepreneurship & Enterprise Development",
+    "short": "Youth Entrepreneurship",
+    "eyebrow": "Programme",
+    "summary": "Entrepreneurial skills, equipment and funding for young Ghanaians — promoting job creation through enterprise.",
+    "image": "urban-youth",
+    "intro": [
+      "Under its Youth Programmes, MASLOC provides entrepreneurial skills and funding to the youth of Ghana.",
+      "The programme promotes job creation by providing equipment — examples published by MASLOC include hairdryers and sewing machines — to young entrepreneurs starting and growing businesses."
+    ],
+    "points": [
+      { "title": "Skills", "text": "Entrepreneurial skills development for young people preparing to start or run a business." },
+      { "title": "Equipment", "text": "Practical start-up equipment such as hairdryers and sewing machines to place tools in working hands." },
+      { "title": "Funding", "text": "Access to MASLOC financing so young entrepreneurs can convert skills into sustainable enterprises." },
+      { "title": "Job creation", "text": "Enterprise development that promotes employment for young Ghanaians." }
+    ]
+  },
+  {
+    "slug": "agricultural-business-support",
+    "title": "Agricultural Business Support",
+    "short": "Agribusiness",
+    "eyebrow": "Programme",
+    "summary": "Funds and equipment for individuals and businesses in agriculture — from farming to fishing along Ghana's coast.",
+    "image": "cocoa-farmer",
+    "intro": [
+      "MASLOC supports agribusiness by providing funds and equipment to individuals and businesses in agriculture.",
+      "Equipment published by MASLOC for the programme includes tricycles, outboard motors and fishing nets."
+    ],
+    "points": [
+      { "title": "Farm equipment", "text": "Equipment such as tricycles to move produce from farm to market efficiently." },
+      { "title": "Fishing support", "text": "Outboard motors and fishing nets for coastal and inland fishing enterprises." },
+      { "title": "Business financing", "text": "Funds to help agricultural businesses grow, process and reach new markets." },
+      { "title": "Nationwide reach", "text": "Delivered through MASLOC's regional office network across Ghana's agricultural regions." }
+    ]
+  },
+  {
+    "slug": "womens-empowerment",
+    "title": "Women's Economic Empowerment",
+    "short": "Women's Empowerment",
+    "eyebrow": "Programme",
+    "summary": "Funds and skills-acquisition training that strengthen women's businesses, decision-making and economic status.",
+    "image": "seamstress",
+    "intro": [
+      "Through its Women Empowerment Initiative, MASLOC provides funds and skills-acquisition training to enhance women's businesses.",
+      "MASLOC states the initiative supports women's decision-making and economic status."
+    ],
+    "points": [
+      { "title": "Access to finance", "text": "Financing directed at women-led enterprises and business ventures." },
+      { "title": "Skills acquisition", "text": "Training that builds practical capacity to run and grow a business." },
+      { "title": "Economic status", "text": "Support that strengthens women's economic standing in their households and communities." },
+      { "title": "Enterprise growth", "text": "Sustained business development for women entrepreneurs at every scale." }
+    ]
+  },
+  {
+    "slug": "other-initiatives",
+    "title": "Other Verified Initiatives",
+    "short": "Other Initiatives",
+    "eyebrow": "Programme",
+    "summary": "Business training and advisory services, and the Capital Behind Bars Initiative developed with the Ghana Prison Service.",
+    "image": "kumasi-craft",
+    "initiatives": [
+      {
+        "title": "Business Training & Advisory Services",
+        "text": "MASLOC delivers business training and advisory services to help entrepreneurs manage their operations. The service accompanies MASLOC financing so borrowers and small businesses can build sustainable enterprises, and is available through MASLOC's offices nationwide."
+      },
+      {
+        "title": "Capital Behind Bars Initiative",
+        "text": "MASLOC launched the Capital Behind Bars Initiative in collaboration with the Ghana Prison Service and Aboboyaa Company Limited. The initiative is featured publicly by MASLOC as part of its enterprise development work."
+      }
+    ],
+    "intro": [
+      "Beyond its loan services and flagship programmes, MASLOC delivers business training, advisory services and targeted initiatives that widen participation in enterprise."
+    ]
+  }
+]

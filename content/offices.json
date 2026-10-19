@@ -1,0 +1,31 @@
+{
+  "source": "Addresses and labels as published on https://www.masloc.gov.gh/contact.html — reproduced without renaming or reformatting of place names.",
+  "headOffice": {
+    "slug": "head-office",
+    "name": "Head Office — Accra",
+    "region": "Greater Accra",
+    "address": "29 Third Circular Road, Cantonments, Accra, Ghana",
+    "postalCode": null,
+    "phones": ["+233 302 782527", "+233 302 782528"],
+    "emails": ["info@masloc.gov.gh", "enquiries@masloc.gov.gh"],
+    "note": "Full eligibility criteria and application guidance are available at the Head Office and all regional offices."
+  },
+  "offices": [
+    { "slug": "greater-accra", "name": "Greater Accra Regional Office", "region": "Greater Accra", "address": "SSNIT Building, next to Cocoa House (Cocobod HQ), Accra Central", "postalCode": "GA-105-0070" },
+    { "slug": "eastern", "name": "Eastern Regional Office", "region": "Eastern", "address": "Opposite NIB Bank & District Court, Koforidua", "postalCode": "EN-010-1271" },
+    { "slug": "oti", "name": "Oti Regional Office", "region": "Oti", "address": "YEA Regional Office, Adj. ORCC New Building, Dambai", "postalCode": "VR-00738-4286" },
+    { "slug": "volta", "name": "Volta Regional Office", "region": "Volta", "address": "Ministry of Food & Agriculture (Volta Regional Agric Dev. Unit) premises", "postalCode": "VH-0004-1932" },
+    { "slug": "central-coast", "name": "Central Coast Regional Office", "region": "Central", "address": "Esuekyir, Beduwah House, 1st Floor", "postalCode": "CC-160-5340" },
+    { "slug": "western", "name": "Western Regional Office", "region": "Western", "address": "First Floor, Takoradi Library Building", "postalCode": "WS-130-7445" },
+    { "slug": "western-north", "name": "Western North Regional Office", "region": "Western North", "address": "RCC First Floor, Room 11, Adiembra Sefwi Wiawso", "postalCode": "WZ-0341-9539" },
+    { "slug": "ashanti", "name": "Ashanti Regional Office", "region": "Ashanti", "address": "Anloga Junction, VIP Parcel Office – Yaa Ataah Arcade Building", "postalCode": "AK-071-6867" },
+    { "slug": "brong", "name": "Brong Regional Office", "region": "Brong", "address": "Queen of Peace House, Opp. Coronation Park, Dominase-Sunyani", "postalCode": "BS-0007-3239" },
+    { "slug": "ahafo", "name": "Ahafo Regional Office", "region": "Ahafo", "address": "Regional Co-ordinating Council", "postalCode": "HA-0000-6344" },
+    { "slug": "bono-east", "name": "Bono East Regional Office", "region": "Bono East", "address": "Regional Co-ordinating Council", "postalCode": "TT-0003-7789" },
+    { "slug": "northern", "name": "Northern Regional Office", "region": "Northern", "address": "Gumani (Opposite Fan Milk), North High Street", "postalCode": "NS-119-5450" },
+    { "slug": "north-east", "name": "North East Regional Office", "region": "North East", "address": "North East Regional Co-ordinating Council (RCC), Nalerigu", "postalCode": "ME-H358-7073" },
+    { "slug": "savanna", "name": "Savanna Regional Office", "region": "Savannah", "address": "Savannah Regional Co-ordinating Council", "postalCode": "GK-0938-6484" },
+    { "slug": "upper-east", "name": "Upper East Regional Office", "region": "Upper East", "address": "Regional Coordinating Council (RCC)", "postalCode": "UB-0034-4017" },
+    { "slug": "upper-west", "name": "Upper West Regional Office", "region": "Upper West", "address": "Regional Coordinating Council (Block B)", "postalCode": "XW-0007-9444" }
+  ]
+}

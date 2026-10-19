@@ -1,0 +1,117 @@
+{
+  "name": "Microfinance and Small Loans Centre",
+  "abbr": "MASLOC",
+  "legalLine": "Microfinance and Small Loans Centre (MASLOC) — A Government of Ghana Institution",
+  "government": "Government of Ghana",
+  "established": 2006,
+  "description": "MASLOC is the Government of Ghana institution providing microcredit, small loans and enterprise development services to start-ups, small businesses and entrepreneurs nationwide.",
+  "headOffice": {
+    "address": "29 Third Circular Road, Cantonments, Accra, Ghana",
+    "phones": ["+233 302 782527", "+233 302 782528"],
+    "emails": ["info@masloc.gov.gh", "enquiries@masloc.gov.gh"]
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/masloc.ghana/photos/",
+    "instagram": "https://www.instagram.com/maslocgh/",
+    "x": "https://x.com/maslocgh"
+  },
+  "creditStrip": [
+    { "label": "Established", "value": "2006", "note": "By the Government of Ghana" },
+    { "label": "Mandate", "value": "Microcredit & small loans", "note": "Apex body of the microfinance sub-sector" },
+    { "label": "Reach", "value": "Nationwide", "note": "Regional offices across Ghana" },
+    { "label": "Integrity", "value": "Fiduciary basis", "note": "Approved public funds, professionally managed" }
+  ],
+  "nav": [
+    { "label": "Home", "href": "/" },
+    {
+      "label": "About MASLOC",
+      "href": "/about/",
+      "children": [
+        { "label": "About MASLOC", "href": "/about/", "desc": "Who we are and what we do" },
+        { "label": "Mandate, Mission & Vision", "href": "/mandate/", "desc": "Objectives, mission, vision and values" },
+        { "label": "Governance & Leadership", "href": "/leadership/", "desc": "Board and management team" }
+      ]
+    },
+    {
+      "label": "Loan Services",
+      "href": "/services/",
+      "children": [
+        { "label": "All Loan Services", "href": "/services/", "desc": "Overview of MASLOC facilities" },
+        { "label": "Microcredit & Group Loans", "href": "/services/microcredit-group-loans/", "desc": "For groups, associations and cooperatives" },
+        { "label": "Small & Project Loans", "href": "/services/small-project-loans/", "desc": "For individuals, businesses and joint projects" },
+        { "label": "Vehicle & Equipment Hire Purchase", "href": "/services/vehicle-equipment-hire-purchase/", "desc": "Own the tools of your trade" },
+        { "label": "Wholesale Lending & MFI Support", "href": "/services/wholesale-lending-microfinance-support/", "desc": "On-lending through microfinance institutions" },
+        { "label": "Eligibility & How to Apply", "href": "/eligibility-application/", "desc": "Requirements and application guidance" }
+      ]
+    },
+    {
+      "label": "Programmes",
+      "href": "/programmes/",
+      "children": [
+        { "label": "All Programmes", "href": "/programmes/", "desc": "Enterprise development initiatives" },
+        { "label": "Youth Entrepreneurship", "href": "/programmes/youth-entrepreneurship/", "desc": "Skills, equipment and funding for young entrepreneurs" },
+        { "label": "Agricultural Business Support", "href": "/programmes/agricultural-business-support/", "desc": "Funds and equipment for agribusiness" },
+        { "label": "Women's Empowerment", "href": "/programmes/womens-empowerment/", "desc": "Funding and skills training for women" },
+        { "label": "Other Verified Initiatives", "href": "/programmes/other-initiatives/", "desc": "Training, advisory and special initiatives" }
+      ]
+    },
+    { "label": "News & Publications", "href": "/news/",
+      "children": [
+        { "label": "News & Announcements", "href": "/news/", "desc": "Latest from MASLOC" },
+        { "label": "Publications & Reports", "href": "/publications/", "desc": "Official publications" },
+        { "label": "Photo & Video Gallery", "href": "/gallery/", "desc": "MASLOC in pictures" }
+      ]
+    },
+    { "label": "Leadership", "href": "/leadership/" },
+    { "label": "Regional Offices", "href": "/regional-offices/" },
+    { "label": "Contact", "href": "/contact/" }
+  ],
+  "footerColumns": [
+    {
+      "title": "About",
+      "links": [
+        { "label": "About MASLOC", "href": "/about/" },
+        { "label": "Mandate, Mission & Vision", "href": "/mandate/" },
+        { "label": "Governance & Leadership", "href": "/leadership/" },
+        { "label": "Contact MASLOC", "href": "/contact/" }
+      ]
+    },
+    {
+      "title": "Loan Services",
+      "links": [
+        { "label": "Microcredit & Group Loans", "href": "/services/microcredit-group-loans/" },
+        { "label": "Small & Project Loans", "href": "/services/small-project-loans/" },
+        { "label": "Vehicle & Equipment Hire Purchase", "href": "/services/vehicle-equipment-hire-purchase/" },
+        { "label": "Wholesale Lending & MFI Support", "href": "/services/wholesale-lending-microfinance-support/" },
+        { "label": "Eligibility & How to Apply", "href": "/eligibility-application/" }
+      ]
+    },
+    {
+      "title": "Programmes",
+      "links": [
+        { "label": "Youth Entrepreneurship", "href": "/programmes/youth-entrepreneurship/" },
+        { "label": "Agricultural Business Support", "href": "/programmes/agricultural-business-support/" },
+        { "label": "Women's Empowerment", "href": "/programmes/womens-empowerment/" },
+        { "label": "Other Verified Initiatives", "href": "/programmes/other-initiatives/" },
+        { "label": "Regional Offices", "href": "/regional-offices/" }
+      ]
+    },
+    {
+      "title": "Information",
+      "links": [
+        { "label": "News & Announcements", "href": "/news/" },
+        { "label": "Publications & Reports", "href": "/publications/" },
+        { "label": "Photo & Video Gallery", "href": "/gallery/" },
+        { "label": "Frequently Asked Questions", "href": "/faq/" },
+        { "label": "Search", "href": "/search/" }
+      ]
+    }
+  ],
+  "legalLinks": [
+    { "label": "Privacy Policy", "href": "/privacy/" },
+    { "label": "Accessibility Statement", "href": "/accessibility/" },
+    { "label": "Terms of Use", "href": "/terms/" },
+    { "label": "404", "href": "/404.html" }
+  ],
+  "placeholderNotice": "The official MASLOC logo file has not been supplied to this build. The header currently uses a typographic MASLOC mark; replace it with the official logo asset before launch (see MISSING-CONTENT.md)."
+}

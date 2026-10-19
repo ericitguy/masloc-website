@@ -1,0 +1,87 @@
+{
+  "about": {
+    "slug": "about",
+    "title": "About MASLOC",
+    "eyebrow": "About MASLOC",
+    "heading": "Building a Stronger Foundation for Ghanaian Enterprise",
+    "lead": "The Microfinance and Small Loans Centre is the Government of Ghana institution dedicated to accessible microfinance for individuals and small businesses — the apex body of Ghana's microfinance sub-sector.",
+    "image": "fruit-vendor",
+    "overview": [
+      "MASLOC — the Microfinance and Small Loans Centre — is a Government of Ghana institution established in 2006. Its homepage describes it as Ghana's premier government agency dedicated to providing accessible microfinance solutions to individuals and small businesses.",
+      "As the apex body responsible for implementing the Government of Ghana's microfinance programmes targeted at reducing poverty, MASLOC provides and supports access to microcredit and small loans for start-ups, small businesses and entrepreneurs — helping businesses grow, creating employment and contributing to poverty reduction and economic development.",
+      "Established in 2006, MASLOC has provided microcredit and small loans to start-ups and small businesses with fast, easy and accessible financing to grow and expand their operations across Ghana."
+    ],
+    "role": [
+      {
+        "title": "Financial inclusion",
+        "text": "Helping to fill the critical financial gap that enables economic participation for Ghana's most vulnerable entrepreneurs."
+      },
+      {
+        "title": "Apex institution",
+        "text": "Serving as the apex body of the microfinance sub-sector and promoting a decentralised microfinancial system."
+      },
+      {
+        "title": "Enterprise development",
+        "text": "Supporting start-ups and small businesses with financing, training and advisory services that create sustainable livelihoods."
+      },
+      {
+        "title": "Public accountability",
+        "text": "Managing approved public funds on a fiduciary basis, with professionalism, integrity and respect at the core of our work."
+      }
+    ],
+    "quote": "Financial inclusion is not just about access to credit, it's about building sustainable livelihoods and transforming communities.",
+    "promise": "Making financial services accessible to every Ghanaian entrepreneur, regardless of size or location, with simplified processes and rapid approvals",
+    "commitment": "Building sustainable businesses through accessible financial solutions, expert guidance, and dedicated support for Ghana's entrepreneurial community.",
+    "cta": { "label": "Discover Our Mandate", "href": "/mandate/" }
+  },
+  "mandate": {
+    "slug": "mandate",
+    "title": "Mandate, Mission, Vision & Objectives",
+    "eyebrow": "Governance",
+    "heading": "A Public Mandate for Private Enterprise",
+    "lead": "MASLOC exists to provide, manage and regulate approved funds for microfinance and small-scale credit schemes — on a fiduciary basis, for the nation.",
+    "objective": "The objective of MASLOC is to provide, manage and regulate on fiduciary basis, approved funds for microfinance and small scale credit schemes and programmes and also serve as the apex body of the microfinance sub sector.",
+    "shall": [
+      "Engage directly or indirectly in microcredit and small loans business.",
+      "Promote and enhance the development of a decentralized microfinancial system.",
+      "Help to fill the critical financial gap, enabling economic participation for Ghana's most vulnerable entrepreneurs."
+    ],
+    "mission": "To provide micro and small loans for start-ups and small businesses with fast, easy and accessible microcredit to grow their businesses, enhancing job and wealth creation.",
+    "vision": "We are committed to growing and developing small and micro businesses through sustainable microfinance, small loans and business services to Ghanaian entrepreneurs.",
+    "values": [
+      { "title": "Professionalism", "text": "Competence and care in every engagement with the public we serve." },
+      { "title": "Integrity", "text": "Managing approved public funds honestly and on a fiduciary basis." },
+      { "title": "Team Spirit", "text": "Working together across regions and departments toward shared national goals." },
+      { "title": "Excellence", "text": "Holding our services to the highest standard for Ghanaian entrepreneurs." },
+      { "title": "Respect", "text": "Treating every applicant, partner and colleague with dignity." }
+    ],
+    "history": [
+      "MASLOC was established in 2006 to implement the Government of Ghana's microfinance programmes targeted at reducing poverty.",
+      "The Ministry of Finance's Development Finance Unit maintains oversight responsibility and policy development functions on all microfinance institutions, MASLOC and venture capital funds.",
+      "Since 2006, MASLOC has provided microcredit and small loans to start-ups and small businesses with fast, easy and accessible financing to grow and expand their operations across Ghana."
+    ],
+    "cta": { "label": "Explore Loan Services", "href": "/services/" }
+  },
+  "eligibility": {
+    "slug": "eligibility-application",
+    "title": "Eligibility & Application Information",
+    "eyebrow": "For Applicants",
+    "heading": "Everything You Need Before You Apply",
+    "lead": "Published eligibility criteria, plain application guidance and where to go next — no guesswork, no invented requirements.",
+    "steps": [
+      { "title": "Review the published criteria", "text": "Check the eligibility requirements published for each MASLOC service — microcredit (group), small and project loans, and vehicle and equipment hire purchase." },
+      { "title": "Prepare your business or group", "text": "Groups should be 5–25 members with leaders (Chairman, Secretary, Treasurer) and internal rules. Individual applicants should be ready to describe an ongoing or viable start-up venture." },
+      { "title": "Visit a MASLOC office", "text": "MASLOC publishes that the full range of eligibility criteria and application guidance is available at every regional office and the Accra Head Office." },
+      { "title": "Complete your application on site", "text": "Office staff will confirm required documents, current terms and processing expectations for your facility — none of which are published online today." }
+    ],
+    "noticeTitle": "Why some details are not published here",
+    "notice": "MASLOC's official website does not currently publish interest rates, loan amounts, repayment terms, approval timelines or a required-documents checklist. This site does not invent them. Contact a regional office or the Head Office for current, authoritative terms.",
+    "quickFacts": [
+      { "label": "Minimum age", "value": "18 years" },
+      { "label": "Maximum age", "value": "65 years" },
+      { "label": "Group size (microcredit)", "value": "5–25 members" },
+      { "label": "Group officers required", "value": "Chairman, Secretary, Treasurer" }
+    ],
+    "cta": { "label": "Find Your Regional Office", "href": "/regional-offices/" }
+  }
+}

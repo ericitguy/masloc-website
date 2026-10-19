@@ -1,0 +1,40 @@
+{
+  "source": "Names, titles and board composition as published on https://www.masloc.gov.gh/our-team.html",
+  "management": [
+    {
+      "name": "Madam Abigail Elorm Akwambea Mensah",
+      "title": "Chief Executive Officer",
+      "note": "Appointed Chief Executive Officer in February 2025.",
+      "initials": "AM"
+    },
+    {
+      "name": "Mr. Richard Lartey",
+      "title": "Deputy CEO, Finance & Administration",
+      "note": "Appointed Acting Deputy CEO in April 2025.",
+      "initials": "RL"
+    },
+    {
+      "name": "Madam Vivian Owusu Asante",
+      "title": "Deputy CEO, Operations",
+      "note": null,
+      "initials": "VA"
+    },
+    {
+      "name": "Madam Khalida M.A. Seidu",
+      "title": "Deputy CEO, PPRME & CS",
+      "note": null,
+      "initials": "KS"
+    }
+  ],
+  "board": [
+    { "name": "Mr. Jerry Nyamekye", "title": "Board Chairman" },
+    { "name": "Madam Abigail Akwambea Elorm Mensah", "title": "Member (Chief Executive Officer)" },
+    { "name": "Hajia Joyce Zaynab Mahama", "title": "Member" },
+    { "name": "Linus Azeriwie Agalisi", "title": "Member" },
+    { "name": "Nana Amponsah Dokua III", "title": "Member" },
+    { "name": "Lily-Love Esetoobu Nunoo", "title": "Member" },
+    { "name": "Nana Akyaa Anti", "title": "Member" },
+    { "name": "Simon Amegashie-Viglo", "title": "Member" },
+    { "name": "Beryl Appenteng", "title": "Member" }
+  ]
+}

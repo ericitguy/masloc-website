@@ -1,0 +1,87 @@
+[
+  {
+    "slug": "microcredit-group-loans",
+    "title": "Microcredit & Group Loans",
+    "short": "Microcredit",
+    "eyebrow": "Loan Service",
+    "summary": "Microcredit for groups, associations and cooperatives with a common production or operational interest — MASLOC's founding service for community enterprise.",
+    "image": "market-scene",
+    "featured": true,
+    "intro": [
+      "MASLOC's Microcredit Programme — also described as the group lending programme — provides financing to applicants organised into groups, associations or cooperatives.",
+      "Applicants must be organised into groups, associations or cooperatives that share a common production or operational interest."
+    ],
+    "eligibility": [
+      "Group or cooperative society membership must be between 5 and 25 members.",
+      "Individual members must be between 18 and 65 years and of sound mind.",
+      "The group should have a common production or operational interest.",
+      "The group should have its own leaders — principally a Chairman, Secretary and Treasurer — and internal rules and regulations."
+    ],
+    "detail": "MASLOC engages directly or indirectly in microcredit and small loans business as part of its mandate to help fill the critical financial gap that enables economic participation for Ghana's most vulnerable entrepreneurs.",
+    "howToApply": "Eligible groups should approach their nearest MASLOC regional office or the Accra Head Office, where the full range of eligibility criteria and application guidance is available."
+  },
+  {
+    "slug": "small-project-loans",
+    "title": "Small & Project Loans",
+    "short": "Small & Project Loans",
+    "eyebrow": "Loan Service",
+    "summary": "Financing for individuals, businesses and joint ventures with an ongoing business or a viable, employment-generating project.",
+    "image": "woman-entrepreneur",
+    "featured": true,
+    "intro": [
+      "Small and project loans may be applied for by individuals, corporate entities, groups, associations or cooperatives seeking a facility for a joint or common purpose.",
+      "The programme is designed for start-ups and small businesses with fast, easy and accessible financing to grow and expand their operations across Ghana."
+    ],
+    "eligibility": [
+      "Applicant must be 18–65 years and of sound mind.",
+      "Must have an ongoing business venture or project.",
+      "Must have sound knowledge and considerable experience in the business or project.",
+      "Start-up projects or businesses must be viable and capable of generating employment.",
+      "Applicants with an ongoing economic activity, venture or project have an added advantage."
+    ],
+    "detail": "MASLOC's small loans support start-ups and small businesses — a critical financial gap in economic participation for Ghanaian entrepreneurs at every scale.",
+    "howToApply": "Full eligibility criteria, required documentation and application guidance are available from any MASLOC regional office or the Accra Head Office."
+  },
+  {
+    "slug": "vehicle-equipment-hire-purchase",
+    "title": "Vehicle & Equipment Hire Purchase",
+    "short": "Hire Purchase",
+    "eyebrow": "Loan Service",
+    "summary": "A hire purchase scheme enabling drivers and working entrepreneurs to own the vehicles and equipment central to their livelihoods.",
+    "image": "market-wheelbarrow",
+    "featured": true,
+    "intro": [
+      "The Vehicle and Equipment Hire Purchase Scheme is designed to help drivers own their vehicles, and to equip small businesses with the tools of their trade.",
+      "Applications are accepted from individuals, corporate entities, groups, associations or cooperatives."
+    ],
+    "eligibility": [
+      "Applicant must be 18–65 years and of sound mind.",
+      "Must have an ongoing business venture or project.",
+      "Must have sound knowledge and considerable experience in the venture.",
+      "Start-up projects or businesses must be viable and capable of generating employment.",
+      "Applicants with an ongoing economic activity or project have an added advantage in securing a facility from MASLOC."
+    ],
+    "detail": "The full range of eligibility criteria for the hire purchase scheme is available from regional offices or the Accra Head Office.",
+    "howToApply": "Visit your nearest MASLOC regional office or the Accra Head Office to review full scheme criteria and begin an application."
+  },
+  {
+    "slug": "wholesale-lending-microfinance-support",
+    "title": "Wholesale Lending & Microfinance Support",
+    "short": "Wholesale Lending",
+    "eyebrow": "Loan Service",
+    "summary": "Wholesale lending to microfinance institutions for on-lending to small businesses, alongside institutional support for the microfinance sub-sector.",
+    "image": "tailors-workshop",
+    "featured": true,
+    "intro": [
+      "MASLOC provides wholesale lending to microfinance institutions for on-lending to small businesses.",
+      "As the apex body of the microfinance sub-sector, MASLOC also supports the development of a decentralised microfinancial system."
+    ],
+    "eligibility": [
+      "Facilities are directed to microfinance institutions for on-lending to small businesses.",
+      "Terms, criteria and participating-institution requirements are set by MASLOC and available directly from the institution.",
+      "Microfinance institutions should enquire at the Accra Head Office for current wholesale arrangements."
+    ],
+    "detail": "Wholesale lending extends MASLOC's reach by channelling approved public funds through microfinance institutions closest to communities, so small businesses can access financing where they live and work.",
+    "howToApply": "Microfinance institutions should contact the Head Office on +233 302 782527 / +233 302 782528 or info@masloc.gov.gh for wholesale lending enquiries."
+  }
+]
